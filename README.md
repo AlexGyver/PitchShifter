@@ -1,4 +1,5 @@
 # PitchShifter
  Модулятор голоса на Arduino
 
-![Logo](/scheme.jpg)
+![Scheme](/scheme.jpg)
+![Hack](/hack.jpg)
