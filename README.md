@@ -1,11 +1,8 @@
 # PitchShifter
  Модулятор голоса на Arduino
 
-![Scheme](/scheme.jpg)
-![Hack](/hack.jpg)
+![Scheme](/schemes/vcc3.png)
+![Hack](/schemes/hack.jpg)
+![PCB](/PCB/pcb.png)
 
-## Компоненты
-- Arduino NANO https://ali.ski/4cDxlh
-- Микрофон https://ali.ski/l_Qv0
-- Конденсаторы 10u можно ставить в диапазоне 5-100u
-- Остальные конденсаторы и резисторы образуют фильтры, значения лучше ставить как на схеме
+[Открыть в редакторе](https://easyeda.com/editor#id=94f0049aabda4c949839f06f298ff744)
