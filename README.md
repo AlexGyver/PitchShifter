@@ -5,4 +5,4 @@
 ![Hack](/schemes/hack.jpg)
 ![PCB](/PCB/pcb.png)
 
-[Открыть в редакторе](https://easyeda.com/editor#id=94f0049aabda4c949839f06f298ff744)
+[Открыть в редакторе](https://oshwlab.com/beragumbo/voicechangersmd)
